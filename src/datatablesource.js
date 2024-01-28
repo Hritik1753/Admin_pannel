@@ -51,7 +51,7 @@ export const userColumns = [
     {
       id: 2,
       username: "amit",
-      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img: "https://www.pinkvilla.com/pics/350x500/1843047000_hrithik-roshan-l_202312.jpg",
       email: "2snow@gmail.com",
       status: "passive",
       age: 42,
@@ -91,7 +91,7 @@ export const userColumns = [
     {
       id: 7,
       username: "diamond",
-      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img: "https://www.pinkvilla.com/pics/350x500/1843047000_hrithik-roshan-l_202312.jpg",
       email: "7snow@gmail.com",
       status: "passive",
       age: 44,
@@ -99,7 +99,7 @@ export const userColumns = [
     {
       id: 8,
       username: "dinesh",
-      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img: "https://www.pinkvilla.com/pics/350x500/1843047000_hrithik-roshan-l_202312.jpg",
       email: "8snow@gmail.com",
       status: "active",
       age: 36,
@@ -107,7 +107,7 @@ export const userColumns = [
     {
       id: 9,
       username: "rohit",
-      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img: "https://www.pinkvilla.com/pics/350x500/1843047000_hrithik-roshan-l_202312.jpg",
       email: "snow@gmail.com",
       status: "pending",
       age: 65,

@@ -12,8 +12,8 @@ const List = () => {
     {
       id: 1143155,
       product: "Acer Nitro 5",
-      img: "https://m.media-amazon.com/images/I/81bc8mA3nKL._AC_UY327_FMwebp_QL65_.jpg",
-      customer: "John Smith",
+      img: "https://www.pinkvilla.com/pics/350x500/1843047000_hrithik-roshan-l_202312.jpg",
+      customer: "Hritik",
       date: "1 March",
       amount: 785,
       method: "Cash on Delivery",
@@ -22,8 +22,8 @@ const List = () => {
     {
       id: 2235235,
       product: "Playstation 5",
-      img: "https://m.media-amazon.com/images/I/31JaiPXYI8L._AC_UY327_FMwebp_QL65_.jpg",
-      customer: "Michael Doe",
+      img: "https://img.freepik.com/free-photo/beautiful-woman-street_23-2147654273.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706400000&semt=ais",
+      customer: "sneha",
       date: "1 March",
       amount: 900,
       method: "Online Payment",
@@ -32,8 +32,8 @@ const List = () => {
     {
       id: 2342353,
       product: "Redragon S101",
-      img: "https://m.media-amazon.com/images/I/71kr3WAj1FL._AC_UY327_FMwebp_QL65_.jpg",
-      customer: "John Smith",
+      img: "https://img.freepik.com/free-photo/beautiful-woman-street_23-2147654273.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706400000&semt=ais",
+      customer: "roshni",
       date: "1 March",
       amount: 35,
       method: "Cash on Delivery",
@@ -42,8 +42,8 @@ const List = () => {
     {
       id: 2357741,
       product: "Razer Blade 15",
-      img: "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_UY327_FMwebp_QL65_.jpg",
-      customer: "Jane Smith",
+      img: "https://img.freepik.com/free-photo/beautiful-woman-street_23-2147654273.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706400000&semt=ais",
+      customer: "shivani",
       date: "1 March",
       amount: 920,
       method: "Online",
@@ -52,8 +52,8 @@ const List = () => {
     {
       id: 2342355,
       product: "ASUS ROG Strix",
-      img: "https://m.media-amazon.com/images/I/81hH5vK-MCL._AC_UY327_FMwebp_QL65_.jpg",
-      customer: "Harold Carol",
+      img: "https://img.freepik.com/free-photo/beautiful-woman-street_23-2147654273.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706400000&semt=ais",
+      customer: "Anusha",
       date: "1 March",
       amount: 2000,
       method: "Online",
@@ -63,7 +63,7 @@ const List = () => {
       {
         id: 2789123,
       product: "ASUS ROG Strix",
-      img: "https://m.media-amazon.com/images/I/81hH5vK-MCL._AC_UY327_FMwebp_QL65_.jpg",
+      img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1712188800&v=beta&t=mVrTYxdT-zFy3s0qYgWfcRgW6Cdvy3Mr5Jwe-7ecTgU",
       customer: "Hritik Paswan",
       date: "1 March",
       amount: 10000,
